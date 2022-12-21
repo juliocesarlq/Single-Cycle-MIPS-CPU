@@ -30,7 +30,7 @@ An array representing an array of size 32 to represent all the slots for memory 
 ### registerName[ ]
 Used in order to use the names assigned to all the registers in a MIPS CPU for example $t1
 
-##Binary Input
+## Binary Input
 10001110000010110000000000000100
 00000001001010100110100000100010
 00000001101010111000100000101010
